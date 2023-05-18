@@ -16,7 +16,7 @@ const PortfolioPreview = () => {
           courses and challenges to learn the basics. You can check them on my{" "}
           <span>
             <a
-              href="#"
+              href="https://github.com/ayelentatto"
               className="pink-text"
               target="_blank"
               rel="noreferrer"

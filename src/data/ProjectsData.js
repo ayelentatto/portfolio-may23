@@ -1,18 +1,14 @@
 import PizzaTime from "../assets/images/portfolio/PizzaTime.jpeg";
 import TravelWithCatherine from "../assets/images/portfolio/TravelWithCatherine.png";
 import GuessMyNumber from "../assets/images/portfolio/GuessMyNumber.jpeg";
-import Forkify from "../assets/images/portfolio/Forkify.jpeg";
-import Edgy from "../assets/images/portfolio/Edgy.jpeg";
 import RestCountries from "../assets/images/portfolio/RestCountries.jpeg";
-import Bankist from "../assets/images/portfolio/Bankist.jpeg";
-import FrontendMentorSolutions from "../assets/images/portfolio/FrontendMentorSolutions.jpeg";
 
 const ProjectsPreviewData = [
   {
     id: "bingo",
     img: PizzaTime,
     name: "Bingo from scratch",
-    stack: ["< React.js />", "< CSS3 />", "< Chackra UI />"],
+    stack: [ "< React.js />", "< CSS3 />", "< Chackra UI />"],
     src: "",
     source: "https://github.com/ayelentatto/bingo-with-react",
     description:

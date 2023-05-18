@@ -1,5 +1,4 @@
 import Projects from "./Projects";
-import Footer from "../../components/footer/Footer";
 import PortfolioDescription from "./PortfolioDescription";
 import ScrollButton from "../../components/ScrollButton";
 
@@ -10,7 +9,6 @@ const Portfolio = () => {
       <PortfolioDescription />
       <Projects />
       <ScrollButton />
-      <Footer />
     </article>
   );
 };
