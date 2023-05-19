@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-may23/static/css/main.986592f3.css",
+    "main.js": "/portfolio-may23/static/js/main.fc68a4da.js",
+    "static/js/787.a5bbf7d8.chunk.js": "/portfolio-may23/static/js/787.a5bbf7d8.chunk.js",
+    "static/media/TravelWithCatherine.png": "/portfolio-may23/static/media/TravelWithCatherine.9f24cfec6a8b9cf0c968.png",
+    "static/media/CV_AYELEN_TATTO.pdf": "/portfolio-may23/static/media/CV_AYELEN_TATTO.6bb6672ce312ef6683e2.pdf",
+    "static/media/icon-black.png": "/portfolio-may23/static/media/icon-black.3e5984feb9629d99995b.png",
+    "static/media/PizzaTime.jpeg": "/portfolio-may23/static/media/PizzaTime.58f8098d86147bcd7928.jpeg",
+    "static/media/RestCountries.jpeg": "/portfolio-may23/static/media/RestCountries.24c4bad7db2b5553e71f.jpeg",
+    "static/media/GuessMyNumber.jpeg": "/portfolio-may23/static/media/GuessMyNumber.26a0dead290e82d87904.jpeg",
+    "static/media/github-pink.svg": "/portfolio-may23/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
+    "index.html": "/portfolio-may23/index.html",
+    "static/media/whatsap.svg": "/portfolio-may23/static/media/whatsap.eb5d0a53c02a1b8a24f8de64bcc5b5ec.svg",
+    "static/media/linkedin-pink.svg": "/portfolio-may23/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
+    "main.986592f3.css.map": "/portfolio-may23/static/css/main.986592f3.css.map",
+    "main.fc68a4da.js.map": "/portfolio-may23/static/js/main.fc68a4da.js.map",
+    "787.a5bbf7d8.chunk.js.map": "/portfolio-may23/static/js/787.a5bbf7d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.986592f3.css",
+    "static/js/main.fc68a4da.js"
+  ]
+}
